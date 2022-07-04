@@ -1,0 +1,42 @@
+export const SliderImage = [
+  {
+    id: 1,
+    image: "https://images.unsplash.com/photo-1555529669-26f9d103abdd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTh8fHNob3BwaW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    title: "Mid-year Sale",
+    desc: "Our Mid-year sale has kick off, enjoy free shipping for good and service above 500$",
+    bg: "crimson",
+    button: "Shop Now",
+  },
+  {
+    id: 2,
+    image: "https://images.unsplash.com/photo-1553531889-56cc480ac5cb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fHNob3BwaW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    title: "Our Offer",
+    desc: "At Musa store, we offer state of the art service for as low as nothing.",
+    bg: "#18385d",
+    button: "Explore Now",
+  },
+  {
+    id: 3,
+    image: "https://images.unsplash.com/photo-1483985988355-763728e1935b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c2hvcHBpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    title: "Dont Change Your Image",
+    desc: "You are parfect, just the way you are, explore our wide range of product to bring out your innermost beauty..",
+    bg: "#350f3b",
+    button: "Explore Now",
+  },
+  {
+    id: 4,
+    image: "https://images.unsplash.com/photo-1513094735237-8f2714d57c13?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8c2hvcHBpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    title: "Explorer the world",
+    desc: "They say the world is not move by latest gadget. But we have these gadget to explore the world, for there are still so much we are yet to discover.",
+    bg: "gold",
+    button: "Visit Now",
+  },
+  {
+    id: 5,
+    image: "https://images.unsplash.com/photo-1573855619003-97b4799dcd8b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fHNob3BwaW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    title: "The New Idea",
+    desc: "Yes we are idealist. we believe the world as we know is driven by idealist who wont accept any form of mental limitations.",
+    bg: "grey",
+    button: "Lias Now",
+  },
+]

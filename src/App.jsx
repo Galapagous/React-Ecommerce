@@ -1,5 +1,13 @@
-const App = () => {
-  return <div>Hello world!</div>;
-};
+import Home from "./Pages/Home"
+import { Product } from "./Pages/Product"
+import { ProductList } from "./Pages/ProductList"
 
-export default App;
+const App = () => {
+  return (
+    <div>
+      <Product />
+    </div>
+  )
+}
+
+export default App
